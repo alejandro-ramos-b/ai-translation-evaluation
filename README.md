@@ -95,3 +95,8 @@ The AI output incorrectly translates “actualmente” as “actually,” which 
 
 ## How This Relates to AI Training
 This work simulates real-world AI training tasks, where human reviewers evaluate and improve model outputs to ensure accuracy, fluency, and correct interpretation of meaning.
+
+## Author
+
+Alejandro Ramos Bojorquez  
+Aspiring Data Scientist | AI & Cybersecurity Learner

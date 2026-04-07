@@ -2,6 +2,13 @@ This repository contains examples of AI translation evaluation between Spanish a
 
 The goal is to demonstrate the ability to assess translation quality, identify errors, and improve fluency and meaning across languages.
 
+## Skills Demonstrated
+
+- Bilingual evaluation (Spanish ↔ English)
+- Error detection in AI-generated translations
+- Fluency and natural phrasing correction
+- Handling of idiomatic expressions and context
+
 ## Examples
 
 ### Example 1

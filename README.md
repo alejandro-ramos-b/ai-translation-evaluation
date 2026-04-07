@@ -1,3 +1,7 @@
+# AI Translation Evaluation (Spanish ↔ English)
+
+
+## Introduction
 This repository contains examples of AI translation evaluation between Spanish and English. Each example includes the original sentence, the AI-generated translation, a corrected version when needed, and an explanation of the changes.
 
 The goal is to demonstrate the ability to assess translation quality, identify errors, and improve fluency and meaning across languages.
@@ -88,3 +92,6 @@ Currently, I am working on a new project.
 
 **Explanation:**  
 The AI output incorrectly translates “actualmente” as “actually,” which is a false friend (a word that looks similar but has a different meaning). In this context, “actualmente” means “currently,” not “actually.”
+
+## How This Relates to AI Training
+This work simulates real-world AI training tasks, where human reviewers evaluate and improve model outputs to ensure accuracy, fluency, and correct interpretation of meaning.

@@ -87,4 +87,4 @@ Actually, I am working on a new project.
 Currently, I am working on a new project.
 
 **Explanation:**  
-The AI output incorrectly translates “actualmente” as “actually,” which is a false phrase. In English, “actually” has a different meaning. “Currently” is the correct translation in this context.
+The AI output incorrectly translates “actualmente” as “actually,” which is a false friend (a word that looks similar but has a different meaning). In this context, “actualmente” means “currently,” not “actually.”

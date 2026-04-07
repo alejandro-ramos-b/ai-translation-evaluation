@@ -49,3 +49,35 @@ I forgot to call.
 
 **Explanation:**  
 The AI output incorrectly translates the structure literally. In Spanish, this construction is reflexive, but in English it should be expressed as a simple subject-action sentence.
+
+---
+
+### Example 4
+
+**Original (Spanish):**  
+Ella dejó el trabajo.
+
+**AI Output:**  
+She left the work.
+
+**Corrected Version:**  
+She quit her job.
+
+**Explanation:**  
+The AI output is understandable but unnatural. In English, “leave the work” is not commonly used in this context. “Quit her job” conveys the intended meaning more clearly and naturally.
+
+---
+
+### Example 5
+
+**Original (Spanish):**  
+Actualmente estoy trabajando en un proyecto nuevo.
+
+**AI Output:**  
+Actually, I am working on a new project.
+
+**Corrected Version:**  
+Currently, I am working on a new project.
+
+**Explanation:**  
+The AI output incorrectly translates “actualmente” as “actually,” which is a false friend. In English, “actually” has a different meaning. “Currently” is the correct translation in this context.
